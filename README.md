@@ -6,6 +6,8 @@ Shopia is an opensource ecommerce app that implement containerised polyglot micr
 
 ## Overview of Services Architecture
 
+<img src="./docs/imgs/architecture.svg">
+
 This architecture demonstrate how microservices communicate with each other. The Dividence of microservices is based on [Business specs](./docs/specs/biz-specs.md)
 
 ## Overview of Devops Architecture
